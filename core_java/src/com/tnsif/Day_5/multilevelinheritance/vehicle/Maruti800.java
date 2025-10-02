@@ -1,4 +1,4 @@
-package com.tnsif.Day_5.multilevelinheritance.texteditor.vehicle;
+package com.tnsif.Day_5.multilevelinheritance.vehicle;
 public class Maruti800 extends Maruti {
 
 	public Maruti800() {
