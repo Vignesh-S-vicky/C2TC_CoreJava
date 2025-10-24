@@ -1,5 +1,7 @@
 package com.tnsif.Day_8.interfaces.instanceofinterface;
 
-public class Phone {
+public interface Phone {
+	void call();
 
+	void sms();
 }
